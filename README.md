@@ -11,3 +11,6 @@ Screenshoot of Employee Manager
 ![screenshoot](/assets/images/Employee%20Menu.png)
 ![screenshoot](/assets/images/Employee%20Directory.png)
 
+Video of the how the Employee Tracker works on MYSQL:
+![watch the video](/assets/EmployeeTrackerVideo.webm)
+
